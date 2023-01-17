@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,10 @@
     "fs-extra": "^11.1.0",
     "ganache-cli": "^6.12.2",
     "mocha": "^10.2.0",
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "semantic-ui-react": "^2.1.4",
     "solc": "^0.8.17",
     "web3": "^1.8.1"
   },
